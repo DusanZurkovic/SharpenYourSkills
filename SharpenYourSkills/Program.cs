@@ -36,7 +36,7 @@ namespace SharpenYourSkills
                     Methods.tax();
                     return true;
                 case "2":
-                    Console.WriteLine("Tax2");
+                    Methods.discount();
                     return true;
                 case "3":
                     Console.WriteLine("Tax2");
