@@ -1,0 +1,14 @@
+C:\Users\d.zurkovic\c#\SharpenYourSkills\SharpenYourSkills\bin\Debug\netcoreapp3.1\SharpenYourSkills.exe
+C:\Users\d.zurkovic\c#\SharpenYourSkills\SharpenYourSkills\bin\Debug\netcoreapp3.1\SharpenYourSkills.deps.json
+C:\Users\d.zurkovic\c#\SharpenYourSkills\SharpenYourSkills\bin\Debug\netcoreapp3.1\SharpenYourSkills.runtimeconfig.json
+C:\Users\d.zurkovic\c#\SharpenYourSkills\SharpenYourSkills\bin\Debug\netcoreapp3.1\SharpenYourSkills.runtimeconfig.dev.json
+C:\Users\d.zurkovic\c#\SharpenYourSkills\SharpenYourSkills\bin\Debug\netcoreapp3.1\SharpenYourSkills.dll
+C:\Users\d.zurkovic\c#\SharpenYourSkills\SharpenYourSkills\bin\Debug\netcoreapp3.1\SharpenYourSkills.pdb
+C:\Users\d.zurkovic\c#\SharpenYourSkills\SharpenYourSkills\obj\Debug\netcoreapp3.1\SharpenYourSkills.csproj.AssemblyReference.cache
+C:\Users\d.zurkovic\c#\SharpenYourSkills\SharpenYourSkills\obj\Debug\netcoreapp3.1\SharpenYourSkills.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d.zurkovic\c#\SharpenYourSkills\SharpenYourSkills\obj\Debug\netcoreapp3.1\SharpenYourSkills.AssemblyInfoInputs.cache
+C:\Users\d.zurkovic\c#\SharpenYourSkills\SharpenYourSkills\obj\Debug\netcoreapp3.1\SharpenYourSkills.AssemblyInfo.cs
+C:\Users\d.zurkovic\c#\SharpenYourSkills\SharpenYourSkills\obj\Debug\netcoreapp3.1\SharpenYourSkills.csproj.CoreCompileInputs.cache
+C:\Users\d.zurkovic\c#\SharpenYourSkills\SharpenYourSkills\obj\Debug\netcoreapp3.1\SharpenYourSkills.dll
+C:\Users\d.zurkovic\c#\SharpenYourSkills\SharpenYourSkills\obj\Debug\netcoreapp3.1\SharpenYourSkills.pdb
+C:\Users\d.zurkovic\c#\SharpenYourSkills\SharpenYourSkills\obj\Debug\netcoreapp3.1\SharpenYourSkills.genruntimeconfig.cache
